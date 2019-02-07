@@ -1,0 +1,41 @@
+CONTROL DE VERSIONES
+Sistema que lleva registro de sus modificsciones de uno o más archivos a lo largo del tiempo,
+hace posible regresar a versiones anteriores especificasparaver, cambiar y comparar dichos 
+archivos; tambien, revisar quien o quienes han realizado ciertas modificaciones, ayudan a tener
+un respaldo de los documentos y a mejorar el trabajo en equipo.
+
+Tipos de sistemas de control de versiones.
+  Local: el registro se lleva acabo en una base de datos local.
+  Centralizado: en el un servidor central lleva el registro, eficiente para el trabajo con 
+                colaboradores. Donde los usuarios descargan los archivos desde el servidor y se 
+                suben esos cambios al mismo.
+  Distribuido: todos los usuarios involucrados tienen una copia exacta del proyecto y del 
+               registro de modificaciones, asi si el servidor llega a fallar el servidor puede
+               restaurarse con alguna otra copia de seguridad.
+               
+¿Qué es Git?es un sistema de controlador de versionescreado en el año 2005 por Linus equipo 
+Torvalds, actualmente es el mas usado en el mundo ya que ademas de ser fácil, es de codigo libre,
+escrito en C.
+
+
+REPOSITORIO
+Directorio usado para la organizacion de un proyecto, en él se encuentran todos los archivos que
+hacen parte del proyecto.
+
+Tipos de repositorios.
+  Local: se ubica en nuestro equipo y solo el dueño/usuario tiene acceso a éste.
+  Remoto: se ubica en un servidor extrerno (nube) y nos permite tener a la mano nuestros archivos,
+          siempre y cuando se tenga acceso a internet.
+
+Operaciones en un repositorio:
+  Agregar: 
+  Commit:
+  Ramas(Branches):
+
+
+ALMACENAMIENTO EN LA NUBE
+Servicio en donde los datos de un dispositivo (de cómputo o movil) se respalda, almacena y 
+administra de forma remota.
+
+
+GOOGLE FORMS

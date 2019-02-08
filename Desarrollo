@@ -28,9 +28,13 @@ Tipos de repositorios.
           siempre y cuando se tenga acceso a internet.
 
 Operaciones en un repositorio:
-  Agregar: 
-  Commit:
-  Ramas(Branches):
+  Agregar: agrega archivos al repositorio.
+  Commit: registra todos los archivos agregados y sus modificaciones.
+  Ramas(Branches):el repositorio puede verse en forma de ramas de arbol donde la principal, 
+                  llamada master, contiene el prooyecto con los archivos funcionales; por otro lado
+                  las ramas secundarias son modificaciones o pruebas que se realizan sobre la rama 
+                  principal sin afectar los archivos que ya funcionan, una vez terminado, se puede
+                  fusionar(merge) a la rama principal, con sus nuevos cambios ya probados.
 
 
 ALMACENAMIENTO EN LA NUBE
@@ -39,3 +43,11 @@ administra de forma remota.
 
 
 GOOGLE FORMS
+gracias a la cuenta de google se puede recolectar informacion en base a formularios y mandarlo a un
+grupo de personas, dicho servicio te da la informacion completa obtenida en tu formulario.
+
+
+ONENOTE
+Asi mismo Microsoft, hace facil realizar apuntes gracias a un servicio llamado OneNote que almacena
+toda la infromacion en la nube.
+

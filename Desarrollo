@@ -51,3 +51,53 @@ ONENOTE
 Asi mismo Microsoft, hace facil realizar apuntes gracias a un servicio llamado OneNote que almacena
 toda la infromacion en la nube.
 
+BUSCADORES DE INTERNET
+Son aplicaciones que rastrean la red de redes; catalogan, clasifican y organizan información para 
+mostrarla en el navegador en base a un algoritmo patentado por la empresa que ofrezca dicho servicio. 
+En la actualidad existen una gamma amplia de buscadores, el cual, el mas importante a hablar es 
+Google ya que en la actualidad es el mas usado a nivel mundial.
+
+GOOGLE SEARCH
+Motor de busqueda de la empresa Google Inc.desarrollado por Larry Page y Sergey Brin en 1997.
+
+Características o comandos para Google Search (todas las imagenes de las actividades se encuentran
+en otro archivo del repositorio):
+    
+    Busqueda de imagenes respecto a un tema (sistemas operativos), excepto para algunas de un subtema
+    en especial se emplea el comando "-" (Windows) y con el comando "or" decimos que la busqueda debe
+    tener la palabra siguiente al comando.
+     
+     Ejemplo de clase: imagenes sistemas operativos or linux -windows
+   
+    encontar datos que pertenecen o contienen una frase en especifico, se hace uso de la doble 
+    comillas seguido del texto a buscar ("lenguaje de programacion c") y los resultados de las busqueda
+    deben tener esas palabras.
+    
+    Para realizar una busqueda en donde el navegador incluya una palabra y los resultados muestre las 
+    paginas en donde se encuentra se debe haces uso del simbolo "+". no es necesario el uso de articulos 
+    en ciertos casos.
+    
+      Ejmplo en clase: +La clonacion
+    
+    El comando define sirve para dar la definicion de una palabra o un conjunto de ellas
+      
+      Ejemplo en clase:dfine:adn
+    
+    El siguiente comando es usado para una busqueda mas especifica, ya que al buscador se le da informacion
+    más detallada como el sitio wed (site: ), el tema(~), incluso un intervalo de tiempo (2016...2019)
+    
+      Ejemplo en clase: site:ingenieria.unam.mx ~carreras 2016..2019
+    
+    Otra busqueda especifica que se puede realizar es de un texto dando el titulo, una palabra o frase en 
+    el texto y el tipo del texto que se desa buscar.
+    
+      Ejemplo en clase: intitle:"progrmacion en c" intext:ingenieria filetype:pdf
+      
+    Cuenta con calculdora
+    
+    Convertidor de unidades
+    
+    Puede hacer graficas en dos dimensiones
+    
+    La seccion  o buscador escolar llamado google academico, en este hicimos uso de los comandos para el 
+    autor y alguno de sus titulos (author: hoare "quicksort").
